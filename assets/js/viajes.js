@@ -3,15 +3,21 @@ $("#enviar-correo").click(function () {
   });
   
   $(document).ready(function () {
-    $("#destacados").on("dblclick", function () {
-      $("#quienes").css("color", "yellow");
+    $("#Contacto").on("dblclick", function () {
+      $("#Contacto").css("color", "yellow");
     });
   });
    
   $(document).ready(function () {
-      $("#destacados").on("dblclick", function () {
+      $("#quienes").on("dblclick", function () {
         $("#quienes").css("color", "yellow");
-      });
-    });
+      });
+    });
+
+$(document).ready(function () {
+  $("#contactocambio").on("dblclick", function () {
+    $("#contactocambio").css("color", "yellow");
+     });
+    });
   
    
