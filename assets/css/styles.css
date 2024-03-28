@@ -1,3 +1,4 @@
+/*fonts para personalizar*/
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lobster&family=Open+Sans:ital,wght@0,700;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap') ;
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:ital,wght@0,700;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 * {
@@ -5,6 +6,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
+/*font family*/
 .roboto-regular {
     font-family: "roboto", sans-serif;
     font-weight: 400;
@@ -20,6 +22,7 @@
     font-weight: 400;
     font-style: normal;
   }
+  /*personalizacion de secciones*/
 #Heros {
     background-image: url("https://media.gettyimages.com/id/463523885/es/vector/airplane-in-flight.jpg?s=612x612&w=0&k=20&c=x-CC0bohkcCLHhblrV6m9rvjurW1rhBnA-NZ6sVhPlM=");
     background-repeat: no-repeat;

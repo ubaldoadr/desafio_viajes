@@ -1,7 +1,8 @@
+/*funcion click con alerta*/
 $("#enviar-correo").click(function () {
     alert("El correo fue enviado correctamente...");
   });
-  
+  /*funcion doble click con cambio de color en texto*/
   $(document).ready(function () {
     $("#Contacto").on("dblclick", function () {
       $("#Contacto").css("color", "yellow");
